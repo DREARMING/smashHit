@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\positions.txt">
+    <Files>
+      <File FileName="smashHit.sln" Line="1" Column="1" />
+      <File FileName="Assets\Resources\positions.txt" Line="38" Column="18" />
+      <File FileName="Assets\script\MyCamera.cs" Line="61" Column="61" />
+      <File FileName="Assets\script\Crystal.cs" Line="1" Column="1" />
+      <File FileName="Assets\ClassNoMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\shot.cs" Line="1" Column="1" />
+      <File FileName="Assets\GlassHit.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\EmitterScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Materials\Ray\scr\XLine.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

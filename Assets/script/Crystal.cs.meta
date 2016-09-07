@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c9b96fe3705ce946bc76742110783d4
+timeCreated: 1466506667
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - prefab: {fileID: 149318, guid: e137ac6db6e2135419360b87752279f2, type: 2}
+  - PhysicM: {fileID: 13400000, guid: 13a9a40cf91cd6f4199bf9b1dfd81b24, type: 2}
+  - ChunkM: {fileID: 2100000, guid: 88ca718ba39eacf4780f006110dffd69, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
