@@ -1,5 +1,5 @@
 # smashHit
 ##效果展示：
 
-![](http://github.com/DREAMING/smashHit/image/Git2.git)
+![image](https://github.com/DREARMING/smashHit/blob/master/image/GIF2.gif)
 
