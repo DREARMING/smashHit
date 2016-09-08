@@ -1,7 +1,5 @@
 # smashHit
 ##效果展示：
 
-![](http://i.imgur.com/ZeHdUKF.gif)
+![](http://github.com/DREAMING/smashHit/image/Git2.git)
 
-
-![](http://i.imgur.com/bdX7v6a.gif)
